@@ -1,7 +1,7 @@
 ### Hi 👋
 
 
-- 🔭 I’m currently working on Ilab project Akinator
+- 🔭 I’m currently working on Ilab project Calculator
 - 🌱 I’m currently learning С, C++ and some assembler
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
