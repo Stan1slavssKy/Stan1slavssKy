@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stan1slavssKy&&show_icons=true&theme=synthwave" />
 </a>
 
-</br>
+&ensp
 
 <div align="center">
 <img hight="300" width="700" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
