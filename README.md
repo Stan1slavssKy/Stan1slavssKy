@@ -22,8 +22,7 @@ I’m currently...
 <img hight="200" width="400" align = "right" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/8RUF.gif">
 </div>
 
-
-</br>
+## GitHub stats
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stan1slavssKy&&show_icons=true&theme=synthwave" />
