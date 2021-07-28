@@ -8,11 +8,11 @@ I’m currently...
 - working on Ilab project Calculator :boom:
 - watching JoJo :purple_heart:
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stan1slavssKy&theme=synthwave"/>
 </a>
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 
 </br>
 
