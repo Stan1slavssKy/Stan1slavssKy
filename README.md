@@ -15,7 +15,7 @@
 # Me and C language:
 <br>
 <div align="center">
-<img hight="200" width="466" align = "left" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
+<img hight="200" width="450" align = "left" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 </div>
 
 <div align="center">
