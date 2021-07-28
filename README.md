@@ -13,7 +13,7 @@ I’m currently...
 </a>
 
 <div align="center">
-<img hight="300" width="500" align = "right" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
+<img hight="200" width="400" align = "right" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 </div>
 
 
