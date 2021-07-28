@@ -12,7 +12,7 @@ I’m currently...
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stan1slavssKy&theme=synthwave"/>
 </a>
 
-<div align="center">
+<div align">
 <img hight="200" width="400" align = "right" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 </div>
 
@@ -25,17 +25,6 @@ I’m currently...
 <img hight="200" width="400" align = "right" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/8RUF.gif">
 </div>
 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 Which of them I am is still being found out
 
