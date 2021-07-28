@@ -1,6 +1,7 @@
 # Hi 👋
 
-## I'm currently a MIPT student on Department of Radio Engineering and Cybernetics!
+## About me:
+# I'm currently a MIPT student on Department of Radio Engineering and Cybernetics!
 
 - 🔭 I’m currently working on Ilab project Calculator
 - 🌱 I’m currently learning С, C++ and some assembler
@@ -38,4 +39,4 @@
 Which of them I am is still being found out
 
 </br>
-                                                                                                                    Yare Yare Daze...
+
