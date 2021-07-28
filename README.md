@@ -4,9 +4,9 @@
 
 ## About me:
 I’m currently...
-- working on Ilab project Calculator
-- learning С/C++.
-- :purple_heart: watching JoJo
+- working on Ilab project Calculator :boom:
+- learning С/C++ :eyes:
+- watching JoJo :purple_heart:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stan1slavssKy&theme=synthwave"/>
