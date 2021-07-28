@@ -4,8 +4,8 @@
 
 ## About me:
 I’m currently...
-- working on Ilab project Calculator :boom:
 - learning С/C++ :eyes:
+- working on Ilab project Calculator :boom:
 - watching JoJo :purple_heart:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
