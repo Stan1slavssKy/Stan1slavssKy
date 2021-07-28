@@ -1,9 +1,12 @@
 # Hi, I'm Stas 👋
-## I'm currently a MIPT student on Department of Radio Engineering and Cybernetics!
-## About me:
 
-- 🔭 I’m currently working on Ilab project Calculator
-- 🌱 I’m currently learning С, C++ and some assembler
+## I'm currently a MIPT student on Department of Radio Engineering and Cybernetics!
+
+## About me:
+I’m currently...
+- working on Ilab project Calculator
+- learning С/C++.
+- watching JoJo
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stan1slavssKy&theme=synthwave"/>
