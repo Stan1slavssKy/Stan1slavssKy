@@ -24,6 +24,10 @@ I’m currently...
 <img hight="400" width="700" align = "center" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/8RUF.gif">
 </div>
 
+</br>
+</br>
+</br>
+
 ## GitHub stats
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
