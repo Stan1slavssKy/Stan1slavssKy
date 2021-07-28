@@ -12,9 +12,7 @@ I’m currently...
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stan1slavssKy&theme=synthwave"/>
 </a>
 
-<div align">
-<img hight="200" width="400" align = "right" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
-</div>
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 
 </br>
 
