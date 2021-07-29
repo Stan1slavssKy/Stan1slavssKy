@@ -2,7 +2,7 @@
 
 ## I'm currently a MIPT student on Department of Radio Engineering and Cybernetics!
 
-## :telephone_receiver: You can contact me in any of these ways
+## :telephone_receiver: You can contact me in any of these ways:
 - VK: https://vk.com/vincent4
 - Mail: kurnevich.sv@phystech.edu
 
@@ -13,7 +13,7 @@ I’m currently...
 - studying higher mathematics and general physics :exclamation:
 - watching JoJo :purple_heart:
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
+<img hight="200" width="250" alt="GIF" align="right" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 
 
 </br>
