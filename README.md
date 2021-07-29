@@ -1,6 +1,6 @@
 # Hi, I'm Stas 👋
 
-## :office: Where I'm studying
+## :office: Where I'm studying?
 I'm currently a MIPT student on Department of Radio Engineering and Cybernetics!
 
 ## :phone: You can contact me in any of these ways:
