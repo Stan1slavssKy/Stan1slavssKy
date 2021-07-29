@@ -14,9 +14,11 @@ I’m currently...
 - studying higher mathematics and general physics :exclamation:
 - watching JoJo :purple_heart:
 
+</br>
+</br>
+
 <img hight="400" width="700" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 
-</br>
 </br>
 </br>
 
