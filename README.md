@@ -28,7 +28,7 @@ I’m currently...
 </br>
 </br>
 
-## GitHub stats
+## 📈 GitHub stats
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stan1slavssKy&&show_icons=true&theme=synthwave" />
