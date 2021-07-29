@@ -17,7 +17,7 @@ I’m currently...
 </br>
 </br>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
+<a href="https://vk.com/im?sel=219165358&z=video-102087446_456271825%2Fcdfaa0c69d02869555">
 <img hight="400" width="700" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 </a>
 
@@ -26,7 +26,7 @@ I’m currently...
 
 ## 📈 GitHub stats
 
-<a href="https://vk.com/im?sel=219165358&z=video-102087446_456271825%2Fcdfaa0c69d02869555">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stan1slavssKy&theme=synthwave"/>
 </a>
 
