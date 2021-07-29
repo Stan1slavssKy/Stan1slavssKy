@@ -13,18 +13,7 @@ I’m currently...
 - studying higher mathematics and general physics :exclamation:
 - watching JoJo :purple_heart:
 
-<img hight="200" width="250" alt="GIF" align="right" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
-
-
-</br>
-</br>
-</br>
-
-# Me and C language (Which of them I am is still being found out):
-
-<div align="center">
-<img hight="400" width="700" align = "center" alt="GIF"  src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/8RUF.gif">
-</div>
+<img hight="400" width="700" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 
 </br>
 </br>
