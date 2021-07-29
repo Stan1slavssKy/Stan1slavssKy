@@ -17,8 +17,8 @@ I’m currently...
 </br>
 </br>
 
-<a href="https://vk.com/im?sel=219165358&z=video-102087446_456271825%2Fcdfaa0c69d02869555">
-<img hight="450" width="800" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
+<a href="https://www.youtube.com/watch?v=S6k4hcWSX94&ab_channel=JOJO">
+<img hight="450" width="800" alt="GIF" align="right" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 </a>
 
 </br>
