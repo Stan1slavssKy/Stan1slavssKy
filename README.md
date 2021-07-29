@@ -2,7 +2,7 @@
 
 ## I'm currently a MIPT student on Department of Radio Engineering and Cybernetics!
 
-## About me:
+## :grey_question: About me:
 I’m currently...
 - learning С/C++ :eyes:
 - working on Ilab project Calculator :boom:
