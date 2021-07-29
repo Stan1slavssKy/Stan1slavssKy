@@ -6,6 +6,7 @@
 I’m currently...
 - learning С/C++ :eyes:
 - working on Ilab project Calculator :boom:
+- studying higher mathematics and general physics :exclamation:
 - watching JoJo :purple_heart:
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
