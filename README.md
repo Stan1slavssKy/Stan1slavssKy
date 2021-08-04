@@ -17,6 +17,8 @@ I’m currently...
 </br>
 </br>
 
+## :cherries: Rero rero rero
+
 <a href="https://www.youtube.com/watch?v=S6k4hcWSX94&ab_channel=JOJO">
 <img hight="450" width="800" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/GRPY.gif">
 </a>
