@@ -15,7 +15,6 @@ I’m currently...
 - watching JoJo :purple_heart:
 
 </br>
-</br>
 
 ## :cherries: Rero rero rero
 
