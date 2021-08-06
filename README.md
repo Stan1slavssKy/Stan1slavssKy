@@ -10,7 +10,7 @@ I'm currently a MIPT student on Department of Radio Engineering and Cybernetics!
 ## :grey_question: About me:
 I’m currently...
 - learning С/C++ :eyes:
-- working on Ilab project Calculator :boom:
+- working on Ilab project Differentiator :boom:
 - studying higher mathematics and general physics :exclamation:
 - watching JoJo :purple_heart:
 
