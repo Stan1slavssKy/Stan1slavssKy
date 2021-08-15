@@ -12,7 +12,6 @@ I’m currently...
 - learning С/C++ :eyes:
 - working on Ilab project Differentiator :boom:
 - studying higher mathematics and general physics :exclamation:
-- watching JoJo :purple_heart:
 
 </br>
 
