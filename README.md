@@ -16,7 +16,7 @@ I’m currently...
 
 </br>
 
-## 📓: Death note
+## 📓 Death note
 
 <a href="https://www.youtube.com/watch?v=qR6dzwQahOM&ab_channel=joseuchiha80">
 <img hight="450" width="800" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/MC.gif">
