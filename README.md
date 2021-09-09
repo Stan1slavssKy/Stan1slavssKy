@@ -15,10 +15,10 @@ I’m currently...
 
 </br>
 
-## 📓 Death note
+## :gem: JOJO
 
-<a href="https://www.youtube.com/watch?v=6xHeFJN9kDU&list=PLcIZDcuuu7Rxtr-uHU8229o4hLSs9jcI6&index=2&ab_channel=Musikage">
-<img hight="450" width="800" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/MC.gif">
+<a href="https://www.youtube.com/watch?v=b30a4CgAmZQ&list=PLcIZDcuuu7Rxtr-uHU8229o4hLSs9jcI6&index=25&ab_channel=Musikage">
+<img hight="450" width="800" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/RmOY.gif">
 </a>
 
 </br>
