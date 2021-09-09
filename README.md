@@ -17,7 +17,7 @@ I’m currently...
 
 ## 📓 Death note
 
-<a href="https://www.youtube.com/watch?v=qR6dzwQahOM&ab_channel=joseuchiha80">
+<a href="https://www.youtube.com/watch?v=6xHeFJN9kDU&list=PLcIZDcuuu7Rxtr-uHU8229o4hLSs9jcI6&index=2&ab_channel=Musikage">
 <img hight="450" width="800" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/MC.gif">
 </a>
 
