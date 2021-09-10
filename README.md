@@ -15,15 +15,6 @@ I’m currently...
 
 </br>
 
-## :gem: JOJO
-
-<a href="https://www.youtube.com/watch?v=b30a4CgAmZQ&list=PLcIZDcuuu7Rxtr-uHU8229o4hLSs9jcI6&index=25&ab_channel=Musikage">
-<img hight="450" width="800" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/RmOY.gif">
-</a>
-
-</br>
-</br>
-
 ## 📈 GitHub stats
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
@@ -33,3 +24,11 @@ I’m currently...
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stan1slavssKy&&show_icons=true&theme=synthwave" />
 </a>
+
+
+<a href="https://www.youtube.com/watch?v=b30a4CgAmZQ&list=PLcIZDcuuu7Rxtr-uHU8229o4hLSs9jcI6&index=25&ab_channel=Musikage">
+<img hight="450" width="800" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/RmOY.gif">
+</a>
+
+</br>
+</br>
