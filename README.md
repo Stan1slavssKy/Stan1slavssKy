@@ -14,7 +14,7 @@ I’m currently...
 
 ## 📈 GitHub stats
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
+<a href="https://www.youtube.com/watch?v=YyzdMkHNAIo&list=PLcIZDcuuu7Rxtr-uHU8229o4hLSs9jcI6&index=19&ab_channel=Musikage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stan1slavssKy&theme=synthwave"/>
 </a>
 
