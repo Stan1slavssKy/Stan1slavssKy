@@ -14,7 +14,7 @@ I’m currently...
 
 ## 📈 GitHub stats
 
-<a href="https://www.youtube.com/watch?v=YyzdMkHNAIo&list=PLcIZDcuuu7Rxtr-uHU8229o4hLSs9jcI6&index=19&ab_channel=Musikage">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stan1slavssKy&theme=synthwave"/>
 </a>
 
@@ -26,7 +26,7 @@ I’m currently...
 </br>
 </br>
 
-<a href="https://www.youtube.com/watch?v=b30a4CgAmZQ&list=PLcIZDcuuu7Rxtr-uHU8229o4hLSs9jcI6&index=25&ab_channel=Musikage">
+<a href="https://www.youtube.com/watch?v=YyzdMkHNAIo&list=PLcIZDcuuu7Rxtr-uHU8229o4hLSs9jcI6&index=20&ab_channel=Musikage">
 <img hight="450" width="800" alt="GIF" align="center" src="https://github.com/Stan1slavssKy/Stan1slavssKy/blob/main/assets/RmOY.gif">
 </a>
 
