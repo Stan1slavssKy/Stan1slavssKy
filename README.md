@@ -1,4 +1,4 @@
-# Hi, I'm Stas 👋
+# Hi 👋
 
 ## :office: Where I'm studying?
 I'm currently a MIPT student on Department of Radio Engineering and Cybernetics!
@@ -6,11 +6,6 @@ I'm currently a MIPT student on Department of Radio Engineering and Cybernetics!
 ## :phone: You can contact me in any of these ways:
 - VK: https://vk.com/vincent4
 - Mail: kurnevich.sv@phystech.edu
-
-## :grey_question: About me:
-I’m currently...
-- learning С/C++ :eyes:
-- studying higher mathematics and general physics :exclamation:
 
 ## 📈 GitHub stats
 
